@@ -1,0 +1,30 @@
+{
+    "Amenity.07e8ece2-c2a0-405d-883c-65da9e9062e2": {
+        "id": "07e8ece2-c2a0-405d-883c-65da9e9062e2",
+        "created_at": "2023-05-05T10:46:53.255543",
+        "updated_at": "2023-05-05T10:46:53.255581",
+        "__class__": "Amenity",
+        "name": "Malek"
+    },
+    "Amenity.ef5862b1-def9-419c-a9d1-6833698e3e14": {
+        "id": "ef5862b1-def9-419c-a9d1-6833698e3e14",
+        "created_at": "2023-05-05T10:46:55.194994",
+        "updated_at": "2023-05-05T10:46:55.195038",
+        "__class__": "Amenity",
+        "name": "wael"
+    },
+    "Amenity.5a38e09a-f35d-484d-827c-b8009376cee0": {
+        "id": "5a38e09a-f35d-484d-827c-b8009376cee0",
+        "created_at": "2023-05-05T10:51:25.435403",
+        "updated_at": "2023-05-05T10:51:25.435452",
+        "__class__": "Amenity",
+        "name": "Yahya"
+    },
+    "Amenity.3faeab43-1191-46ca-84e8-ca37a17a0cb5": {
+        "id": "3faeab43-1191-46ca-84e8-ca37a17a0cb5",
+        "name":"jassem",
+        "created_at": "2023-05-05T10:51:29.592364",
+        "updated_at": "2023-05-05T10:51:29.592422",
+        "__class__": "Amenity"
+    }
+}
